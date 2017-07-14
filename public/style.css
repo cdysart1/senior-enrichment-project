@@ -1,0 +1,101 @@
+header {
+  padding-left: 20px;
+
+  font-size: 25px;
+}
+
+.top {
+font-size: 40px;
+}
+
+.center {
+  padding-top: 50px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+
+.buttons {
+  text-align: center;
+}
+.campusstudentlist {
+    list-style-type: none;
+    text-align: center;
+
+}
+.singleCampus {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.table-space {
+  padding-right: 15px;
+}
+
+.media-object {
+  padding-bottom:75px;
+}
+.studentName {
+  text-align: center;
+}
+
+.col-xs-6 {
+  padding-bottom:100px;
+  padding-left: 200px;
+}
+.forms{
+  padding-top: 50px;
+}
+.form-group {
+  width: 55%;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+.students {
+  float: left ;
+  width: 65% ;
+}
+
+.studentCol {
+  float: left;
+  width: 35%;
+}
+
+.flex-grid {
+  display: flex;
+}
+.flex-grid .col {
+  flex: 1;
+}
+
+.studentCol {
+  float: right;
+}
+
+.table-hover {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.studentinfo {
+  padding-left: 50px;
+  padding-bottom: 15px;
+}
+
+.campustext {
+ text-align: left;
+  line-height: 90%;
+  padding-bottom: 75px;
+  padding-left: 20px;
+
+}
+
+.studentList {
+  list-style-type:none;
+
+}
